@@ -37,7 +37,7 @@ p {
     border-radius: 5px;
     padding: 1em;
     margin: 1em 0;
-    background-color: #ecf0f1; /* Adjusted background color */
+    background-color: transparent; /* Transparent background */
 }
 
 .footer {
